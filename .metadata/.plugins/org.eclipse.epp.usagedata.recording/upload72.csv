@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1380649414717
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649471676
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649473106
+error,log,,,"SOPC design not set.",1380649473156
+error,log,,,"CPU module not set.",1380649473196
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380649473216
+error,log,,,"CPU architecture type not set. ",1380649473226
+error,log,,,"CPU master group not set.",1380649473236
+error,log,,,"SOPC design not set.",1380649473256
+error,log,,,"CPU module not set.",1380649473266
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380649473276
+error,log,,,"CPU architecture type not set. ",1380649473276
+error,log,,,"CPU master group not set.",1380649473286
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1380649473366
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1380649476807
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1380649483450
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1380649603259
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649614989
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649633509
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1380649636049
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649644059
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649645969
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649646709
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380649706048
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1380649746948

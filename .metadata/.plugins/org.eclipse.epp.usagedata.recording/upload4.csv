@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.version,sysinfo,,,"14.0-b16",1380293046341
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1380293049331
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1380293049401
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293049831
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293072991
+started,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1380293084251
+started,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1380293084401
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1380293084401
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1380293086531
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1380293099721
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1380293099761
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1380293102001
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1380293102031
+started,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1380293102041
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1380293102861
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293103131
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293181274
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293181284
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293185274
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293213204
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380293275214
+error,log,,,"SOPC design not set.",1380293275294
+error,log,,,"CPU module not set.",1380293275294
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380293275304
+error,log,,,"CPU architecture type not set. ",1380293275304

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1380732287521
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1380732287521
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1380732287521
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1380732287521
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1380732287521
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1380732287521
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1380732287521
+started,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1380732287521
+started,bundle,org.eclipse.ui.editors,3.5.0.v20090527-2000,"org.eclipse.ui.editors",1380732287521
+started,bundle,org.eclipse.ui.forms,3.4.1.v20090714_35x,"org.eclipse.ui.forms",1380732287521
+os,sysinfo,,,"win32",1380732287521
+arch,sysinfo,,,"x86",1380732287521
+ws,sysinfo,,,"win32",1380732287521
+locale,sysinfo,,,"en_CA",1380732287521
+processors,sysinfo,,,"4",1380732287521
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1380732287521
+java.runtime.version,sysinfo,,,"1.6.0_14-b08",1380732287521
+java.specification.name,sysinfo,,,"Java Platform API Specification",1380732287521
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1380732287521
+java.specification.version,sysinfo,,,"1.6",1380732287521
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1380732287521
+java.version,sysinfo,,,"1.6.0_14",1380732287521
+java.vm.info,sysinfo,,,"mixed mode",1380732287521
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1380732287521
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1380732287521

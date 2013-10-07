@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380654873014
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1380654883944
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380654885554
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1380655375725
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.goto.lineEnd",1380655379455
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.edit.text.moveLineUp",1380655406945
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1380655420535
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1380655427895
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380655434245
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380655441135
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1380655535475
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1380655537305
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1380655538785
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380655539065
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380655625635
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380655631245
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380655690425
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1380655691825
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380655752275
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380655753805
+error,log,,,"SOPC design not set.",1380655753895
+error,log,,,"CPU module not set.",1380655753925
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380655753935
+error,log,,,"CPU architecture type not set. ",1380655753955
+error,log,,,"CPU master group not set.",1380655753955
