@@ -44,11 +44,19 @@
  * results
  */
 
+// Libraries required
+#include "alt_types.h"  // define types used by Altera code, e.g. alt_u8
+#include <stdio.h>
+#include <unistd.h>
+#include "system.h"  // constants such as the base addresses of any PIOs
+                     // defined in your hardware
+#include "sys/alt_irq.h"  // required when using interrupts
+#include <io.h>
+
 void init(int, int);
 void background(int);
 void finalize(void);
-#include "system.h"
-#include <io.h>
+
 // our test results
 /*
  * init(6,8);
@@ -123,14 +131,7 @@ int main(void)
 }
 */
 
-// Libraries required
-#include "alt_types.h"  // define types used by Altera code, e.g. alt_u8
-#include <stdio.h>
-#include <unistd.h>
-#include "system.h"  // constants such as the base addresses of any PIOs
-                     // defined in your hardware
-#include "sys/alt_irq.h"  // required when using interrupts
-#include <io.h>
+
 
 int flag;
 
@@ -138,7 +139,7 @@ int flag;
 #ifdef PIO_PULSE_BASE
 static void pulse_ISR(void* context, alt_u32 id)
 {
-	flag++;
+   flag++;
    if (IORD(PIO_PULSE_BASE, 0) == 0)
    {
            IOWR(PIO_RESPONSE_BASE, 0, 1);
@@ -151,7 +152,8 @@ static void pulse_ISR(void* context, alt_u32 id)
            IOWR(PIO_RESPONSE_BASE, 0, 0);
            flag++;
    }
-
+   // clear interrupt
+  IOWR(PIO_PULSE_BASE, 0, 0);
 }
 #endif
 
@@ -162,16 +164,16 @@ int main(void)
 	printf("flag1:%d\n", flag);
 
 #ifdef PIO_PULSE_BASE
-  /* initialize the pulse PIO */
+	/* initialize the pulse PIO */
 
-  /* direction is input only */
+	// clear interrupt
+	IOWR(PIO_PULSE_BASE, 0, 0);
+	/* enable interrupts */
+	IOWR(PIO_PULSE_BASE, 2, 1);
+	IOWR(PIO_PULSE_BASE, 3, 0);
+	/* set up the interrupt vector */
+	alt_irq_register( PIO_PULSE_IRQ, (void*)0, pulse_ISR );
 
-  /* set up the interrupt vector */
-  alt_irq_register( PIO_PULSE_IRQ, (void*)0, pulse_ISR );
-
-  /* enable interrupts for all four buttons*/
-  IOWR(PIO_PULSE_BASE, 3, 0x0);
-  IOWR(PIO_PULSE_BASE, 0, 0x0);
 
 #endif
   printf("flag2:%d\n", flag);
