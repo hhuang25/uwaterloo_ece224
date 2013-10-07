@@ -1,0 +1,1264 @@
+!SESSION 2013-09-27 10:18:13.750 -----------------------------------------------
+eclipse.buildId=M20090917-0800
+java.version=1.6.0_14
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product org.eclipse.epp.package.cpp.product -perspective com.altera.sbtgui.ui.cPerspective
+
+!ENTRY com.altera.sbtgui.launch 1 0 2013-09-27 10:19:20.340
+!MESSAGE Initializing System Console Model
+
+!ENTRY com.altera.sbtgui.launch 1 0 2013-09-27 10:19:21.770
+!MESSAGE Done Initializing System Console Model
+
+!ENTRY org.eclipse.cdt.core 1 0 2013-09-27 10:21:16.835
+!MESSAGE Indexed 'SoftwarePhase_bsp' (83 sources, 61 headers) in 2.71 sec: 1,070 declarations; 2,893 references; 121 unresolved inclusions; 5 syntax errors; 212 unresolved names (5.08%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2013-09-27 10:21:23.795
+!MESSAGE Indexed 'SoftwarePhase' (1 sources, 12 headers) in 0.12 sec: 22 declarations; 73 references; 17 unresolved inclusions; 0 syntax errors; 2 unresolved names (2.06%)
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.411
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.417
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.424
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.431
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.437
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.445
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.453
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.459
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.465
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.470
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.477
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.482
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.488
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.494
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.499
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.505
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.511
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.517
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.523
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.528
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.534
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.540
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.546
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.552
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.558
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.563
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.571
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.577
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.583
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.590
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.596
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.605
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.610
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.617
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.623
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.628
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.635
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.640
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.646
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.652
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.661
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.671
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.677
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.683
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.689
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.698
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.705
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.711
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.717
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.724
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:31.729
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.233
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.239
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.245
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.250
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.256
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.261
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.267
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.272
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.279
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.284
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.290
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.295
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.302
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.307
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.313
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.318
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.325
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.330
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.336
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.342
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.348
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.354
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.360
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.366
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.373
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.379
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.386
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.392
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.399
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.405
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.412
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.420
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.426
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.432
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.438
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.444
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.476
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.481
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.587
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.594
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.699
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.706
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.811
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.818
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.923
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:33.929
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.035
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.041
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.146
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.152
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.258
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.264
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.369
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.375
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.481
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.486
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.592
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.598
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.703
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.710
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.815
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.821
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.927
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:34.934
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.039
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.046
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.151
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.158
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.263
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.270
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.375
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.381
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.487
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.493
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.599
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.606
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.712
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.718
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.725
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:35.732
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:36.423
+!MESSAGE sun.awt.X11.XlibWrapper
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.486
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.493
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.498
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.503
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.509
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.515
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.521
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.528
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.534
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.539
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.545
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.551
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.557
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.563
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.569
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.575
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.581
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.587
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.594
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.600
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.608
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.614
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.627
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.633
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.640
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.646
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.654
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.660
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.666
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.673
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.678
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.684
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.690
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.695
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.701
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.707
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.712
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.718
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:37.724
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.711
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.718
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.724
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.730
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.737
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.744
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.751
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.758
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.765
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.771
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.777
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.784
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.795
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.801
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.807
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.813
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.818
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.824
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.829
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.836
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.841
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.847
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.856
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.862
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.868
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.874
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.883
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.888
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.894
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.901
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.907
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.914
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.920
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.927
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.934
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:41.940
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.060
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.065
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.101
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.107
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.728
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.734
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.768
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.774
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.795
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.801
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.831
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.837
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.857
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.863
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.892
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.898
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.919
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.924
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.956
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.962
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.986
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:42.991
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:43.021
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:43.027
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:48.277
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:48.284
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.691
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.700
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.706
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.713
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.718
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.724
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.729
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.735
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.743
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.750
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.757
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.897
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.903
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.920
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.926
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.958
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.966
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.984
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:51.991
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.032
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.038
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.052
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.059
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.089
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.096
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.109
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.115
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.146
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.151
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.166
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.172
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.202
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.209
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.222
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.228
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.259
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:26:52.265
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.590
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.596
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.702
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.709
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.814
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.820
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.927
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:22.933
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.039
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.045
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.151
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.158
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.263
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.269
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.374
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.381
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.486
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.493
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.598
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.604
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.709
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.716
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.822
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.829
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.934
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:23.940
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.045
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.051
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.156
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.162
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.267
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.273
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.379
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.386
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.491
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.497
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.642
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.649
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.754
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.761
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.866
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.872
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.879
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.891
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.955
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.961
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.968
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.975
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.981
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.987
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.993
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:24.999
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.006
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.012
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.019
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.026
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.032
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.041
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.047
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.053
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.060
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.065
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.071
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.076
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.082
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.088
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.094
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.099
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.105
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.110
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.116
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.123
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.130
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.140
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.148
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.154
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.162
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.168
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.175
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.182
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.188
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.195
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:25.203
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.624
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.630
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.636
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.641
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.649
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.654
+!MESSAGE Expected base address of system ID component is undefined.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.660
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.667
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.673
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.679
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.685
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.692
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.698
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.705
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.712
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.717
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.724
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.732
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.738
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.745
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.751
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.756
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.764
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.771
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.778
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.785
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.791
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.798
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.803
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.810
+!MESSAGE SOPC design not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.816
+!MESSAGE CPU module not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.823
+!MESSAGE The SOPC design does not contain a CPU of a supported architecture.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.829
+!MESSAGE CPU architecture type not set. 
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.836
+!MESSAGE CPU master group not set.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.842
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.848
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.921
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.927
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.965
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:26.972
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.617
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.623
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.650
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.656
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.675
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.681
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.708
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.715
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.735
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.742
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.771
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.777
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.797
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.802
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.830
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.836
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.856
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.861
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.888
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:27.895
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:37.459
+!MESSAGE No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.
+
+!ENTRY com.altera.sbtgui.launch 4 0 2013-09-27 10:30:37.466
+!MESSAGE No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.

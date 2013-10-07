@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380292224970
+error,log,,,"CPU architecture type not set. ",1380292224976
+error,log,,,"CPU master group not set.",1380292224983
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1380292224989
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1380292224995
+error,log,,,"SOPC design not set.",1380292225001
+error,log,,,"CPU module not set.",1380292225007
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380292225014
+error,log,,,"CPU architecture type not set. ",1380292225021
+error,log,,,"CPU master group not set.",1380292225027
+error,log,,,"Expected base address of system ID component is undefined.",1380292225033
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1380292225042
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1380292225048
+error,log,,,"SOPC design not set.",1380292225055
+error,log,,,"CPU module not set.",1380292225061
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380292225067
+error,log,,,"CPU architecture type not set. ",1380292225072
+error,log,,,"CPU master group not set.",1380292225078
+error,log,,,"Expected base address of system ID component is undefined.",1380292225083
+error,log,,,"No Nios II target connection paths were located. Check connections and that a Nios II .sof is downloaded.",1380292225090
+error,log,,,"No Nios II byte stream devices connection paths were located. Check connections and that a Nios II .sof is downloaded.",1380292225095
+error,log,,,"SOPC design not set.",1380292225101
+error,log,,,"CPU module not set.",1380292225106
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380292225112
+error,log,,,"CPU architecture type not set. ",1380292225117

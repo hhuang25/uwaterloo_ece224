@@ -1,0 +1,11 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.200909110608,"org.eclipse.cdt.managedbuilder.ui",1380292945721
+stopped,bundle,org.eclipse.cdt.make.ui,6.0.1.200909110608,"org.eclipse.cdt.make.ui",1380292945721
+stopped,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1380292945721
+stopped,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1380292945721
+stopped,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1380292945721
+stopped,bundle,org.eclipse.cdt.mylyn.ui,1.0.100.200909110608,"org.eclipse.cdt.mylyn.ui",1380292945721
+stopped,bundle,com.altera.sbtgui.flash.plugin,10.1.0.153,"com.altera.sbtgui.flash.plugin",1380292945721
+stopped,bundle,com.altera.sbtgui.gprof,10.1.0.153,"com.altera.sbtgui.gprof",1380292945721
+stopped,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1380292945721
+stopped,bundle,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui",1380292945731

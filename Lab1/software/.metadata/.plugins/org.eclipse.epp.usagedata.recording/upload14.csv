@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380295122451
+error,log,,,"CPU architecture type not set. ",1380295122458
+error,log,,,"CPU master group not set.",1380295122465
+error,log,,,"Expected base address of system ID component is undefined.",1380295122470
+error,log,,,"SOPC design not set.",1380295122478
+error,log,,,"CPU module not set.",1380295122490
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380295122497
+error,log,,,"CPU architecture type not set. ",1380295122503
+error,log,,,"CPU master group not set.",1380295122509
+error,log,,,"Expected base address of system ID component is undefined.",1380295122515
+started,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1380295124201
+error,log,,,"No ELF file path has been selected.",1380295124268
+error,log,,,"Expected base address of system ID component is undefined.",1380295124276
+error,log,,,"No ELF file path has been selected.",1380295124308
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380295124340
+error,log,,,"No ELF file path has been selected.",1380295125730
+error,log,,,"Expected base address of system ID component is undefined.",1380295125740
+error,log,,,"SOPC design not set.",1380295129000
+error,log,,,"CPU module not set.",1380295129010
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380295129020
+error,log,,,"No ELF file path has been selected.",1380295129020
+error,log,,,"CPU architecture type not set. ",1380295129030
+error,log,,,"CPU master group not set.",1380295129040
+error,log,,,"Expected base address of system ID component is undefined.",1380295129050
+error,log,,,"No ELF file path has been selected.",1380295129050

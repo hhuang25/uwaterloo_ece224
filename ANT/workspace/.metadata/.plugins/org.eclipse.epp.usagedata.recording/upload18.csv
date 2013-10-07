@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU architecture type not set. ",1379440688167
+error,log,,,"CPU master group not set.",1379440688167
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440688635
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1379440688651
+error,log,,,"Unhandled event loop exception",1379440688666
+error,log,,,"Unhandled event loop exception",1379440688666
+error,log,,,"Unhandled event loop exception",1379440688682
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440742346
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440749288
+error,log,,,"SOPC design not set.",1379440749334
+error,log,,,"CPU module not set.",1379440749350
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440749350
+error,log,,,"CPU architecture type not set. ",1379440749366
+error,log,,,"CPU master group not set.",1379440749366
+error,log,,,"SOPC design not set.",1379440749475
+error,log,,,"CPU module not set.",1379440749490
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440749490
+error,log,,,"CPU architecture type not set. ",1379440749506
+error,log,,,"CPU master group not set.",1379440749506
+opened,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1379440750645
+started,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.ui",1379440750816
+started,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.core",1379440750816
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1379440784673
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440815280
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440840193

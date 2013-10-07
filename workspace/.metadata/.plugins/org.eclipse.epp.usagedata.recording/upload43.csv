@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.newWizard",1379615020303
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615023423
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615046119
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1379615050315
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1379615050378
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1379615051376
+executed,command,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.edit.text.c.add.block.comment",1379615061781
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1379615067755
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1379615069408
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1379615072887
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615073168
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615156778
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615157074
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615161099
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615169772
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1379615232277
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379615293379
+error,log,,,"SOPC design not set.",1379615293426
+error,log,,,"CPU module not set.",1379615293442
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379615293442
+error,log,,,"CPU architecture type not set. ",1379615293442
+error,log,,,"CPU master group not set.",1379615293457
+error,log,,,"SOPC design not set.",1379615293566
+error,log,,,"CPU module not set.",1379615293566
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379615293582

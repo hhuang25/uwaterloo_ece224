@@ -1,0 +1,67 @@
+Quartus II Archive log --	N:/ECE_224/Lab1/myESystem_tmp_archive.qarlog
+
+Archive:	N:/ECE_224/Lab1/myESystem_tmp_archive.qar
+Date:		Fri Sep 27 10:35:22 2013
+Quartus II 64-Bit		10.1 Build 197 01/19/2011 SP 1 SJ Full Version
+
+	=========== Files Selected: ===========
+N:/ECE_224/Lab1/button_pio.v
+N:/ECE_224/Lab1/cpu_0.ocp
+N:/ECE_224/Lab1/cpu_0.sdc
+N:/ECE_224/Lab1/cpu_0.v
+N:/ECE_224/Lab1/cpu_0_ic_tag_ram.mif
+N:/ECE_224/Lab1/cpu_0_jtag_debug_module_sysclk.v
+N:/ECE_224/Lab1/cpu_0_jtag_debug_module_tck.v
+N:/ECE_224/Lab1/cpu_0_jtag_debug_module_wrapper.v
+N:/ECE_224/Lab1/cpu_0_oci_test_bench.v
+N:/ECE_224/Lab1/cpu_0_ociram_default_contents.mif
+N:/ECE_224/Lab1/cpu_0_rf_ram_a.mif
+N:/ECE_224/Lab1/cpu_0_rf_ram_b.mif
+N:/ECE_224/Lab1/cpu_0_test_bench.v
+N:/ECE_224/Lab1/ece324_clock_divider.vhd
+N:/ECE_224/Lab1/ece324_egm.bdf
+N:/ECE_224/Lab1/ece324_latency_tracker.vhd
+N:/ECE_224/Lab1/ece324_pulse_generator.vhd
+N:/ECE_224/Lab1/green_led_pio.v
+N:/ECE_224/Lab1/incremental_db/compiled_partitions/myESystem.db_info
+N:/ECE_224/Lab1/jtag_uart_0.v
+N:/ECE_224/Lab1/lcd_display.v
+N:/ECE_224/Lab1/led_pio.v
+N:/ECE_224/Lab1/myESystem.qpf
+N:/ECE_224/Lab1/myESystem.qsf
+N:/ECE_224/Lab1/my_controller.qip
+N:/ECE_224/Lab1/my_controller.sopc
+N:/ECE_224/Lab1/my_controller.v
+N:/ECE_224/Lab1/pio_dutycycle.v
+N:/ECE_224/Lab1/pio_egmenable.v
+N:/ECE_224/Lab1/pio_egmreset.v
+N:/ECE_224/Lab1/pio_latency.v
+N:/ECE_224/Lab1/pio_missed.v
+N:/ECE_224/Lab1/pio_period.v
+N:/ECE_224/Lab1/pio_pulse.v
+N:/ECE_224/Lab1/pio_response.v
+N:/ECE_224/Lab1/red_led_pio.v
+N:/ECE_224/Lab1/sdram_0.v
+N:/ECE_224/Lab1/sdram_pll.bsf
+N:/ECE_224/Lab1/sdram_pll.cmp
+N:/ECE_224/Lab1/sdram_pll.ppf
+N:/ECE_224/Lab1/sdram_pll.qip
+N:/ECE_224/Lab1/sdram_pll.vhd
+N:/ECE_224/Lab1/seven_seg_middle_pio.v
+N:/ECE_224/Lab1/seven_seg_right_pio.v
+N:/ECE_224/Lab1/switch_pio.v
+N:/ECE_224/Lab1/sysid.v
+N:/ECE_224/Lab1/timer_0.v
+N:/ECE_224/Lab1/timer_1.v
+N:/ECE_224/myESystem.bdf
+c:/software/altera/10.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 50 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Sep 27 10:35:28 2013
+Source archive file:	N:/ECE_224/Lab1/myESystem_tmp_archive.qar
+Archive was extracted into	N:/ECE_224/Lab1Good/
+		 - successfully.

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.cdt.managedbuilder.ui,5.1.0.200909110608,"org.eclipse.cdt.managedbuilder.ui",1379440234033
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440246314
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440322521
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1379440328452
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440328716
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440410332
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440410341
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440414311
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1379440459036
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1379440460785
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440466698
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440469896
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440476363
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440538377
+error,log,,,"SOPC design not set.",1379440538441
+error,log,,,"CPU module not set.",1379440538447
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440538453
+error,log,,,"CPU architecture type not set. ",1379440538458
+error,log,,,"CPU master group not set.",1379440538464
+error,log,,,"SOPC design not set.",1379440538471
+error,log,,,"CPU module not set.",1379440538477
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440538483
+error,log,,,"CPU architecture type not set. ",1379440538488
+error,log,,,"CPU master group not set.",1379440538494
+error,log,,,"SOPC design not set.",1379440538501

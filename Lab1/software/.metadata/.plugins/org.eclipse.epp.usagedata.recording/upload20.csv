@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1380295456616
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380295456876
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380295573966
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380295592716
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380295653106
+error,log,,,"SOPC design not set.",1380295654606
+error,log,,,"CPU module not set.",1380295654616
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380295654616
+error,log,,,"CPU architecture type not set. ",1380295654626
+error,log,,,"CPU master group not set.",1380295654626
+error,log,,,"Expected base address of system ID component is undefined.",1380295654636
+error,log,,,"SOPC design not set.",1380295654646
+error,log,,,"CPU module not set.",1380295654646
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380295654656
+error,log,,,"CPU architecture type not set. ",1380295654656
+error,log,,,"CPU master group not set.",1380295654666
+error,log,,,"Connected system ID hash not found on target at expected base address.",1380295654666
+error,log,,,"Connected system timestamp not found on target at expected base address.",1380295654676
+error,log,,,"SOPC design not set.",1380295654686
+error,log,,,"CPU module not set.",1380295654686
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380295654696
+error,log,,,"CPU architecture type not set. ",1380295654696
+error,log,,,"CPU master group not set.",1380295654706
+error,log,,,"SOPC design not set.",1380295654716
+error,log,,,"SOPC design not set.",1380295654726

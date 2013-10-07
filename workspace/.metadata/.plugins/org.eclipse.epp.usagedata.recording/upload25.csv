@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"CPU master group not set.",1379613359831
+error,log,,,"Expected base address of system ID component is undefined.",1379613359831
+error,log,,,"Select one of the available target connection paths.",1379613359847
+error,log,,,"Select one of the available target Nios II byte stream device paths.",1379613359847
+error,log,,,"SOPC design not set.",1379613359863
+error,log,,,"CPU module not set.",1379613359863
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613359878
+error,log,,,"CPU architecture type not set. ",1379613359878
+error,log,,,"CPU master group not set.",1379613359878
+error,log,,,"Expected base address of system ID component is undefined.",1379613359894
+error,log,,,"SOPC design not set.",1379613359894
+error,log,,,"CPU module not set.",1379613359909
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613359909
+error,log,,,"CPU architecture type not set. ",1379613359909
+error,log,,,"CPU master group not set.",1379613359925
+error,log,,,"Expected base address of system ID component is undefined.",1379613359925
+error,log,,,"SOPC design not set.",1379613361298
+error,log,,,"CPU module not set.",1379613361313
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613361313
+error,log,,,"CPU architecture type not set. ",1379613361329
+error,log,,,"CPU master group not set.",1379613361329
+error,log,,,"Expected base address of system ID component is undefined.",1379613361345
+error,log,,,"SOPC design not set.",1379613361345
+error,log,,,"CPU module not set.",1379613361360
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613361360

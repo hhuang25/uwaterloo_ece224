@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379441488707
+error,log,,,"SOPC design not set.",1379441488754
+error,log,,,"CPU module not set.",1379441488754
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379441488769
+error,log,,,"CPU architecture type not set. ",1379441488769
+error,log,,,"CPU master group not set.",1379441488769
+error,log,,,"SOPC design not set.",1379441488894
+error,log,,,"CPU module not set.",1379441488894
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379441488910
+error,log,,,"CPU architecture type not set. ",1379441488910
+error,log,,,"CPU master group not set.",1379441488910
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1379441492250
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1379441498571
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1379441521394
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1379441532236
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1379441534513
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1379441536635
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379441536916
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379441619392
+activated,view,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch.hardware.ByteStreamConsoleView",1379441628409
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1379441640265
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379441643931
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379441706908
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1379441708530
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379441768480

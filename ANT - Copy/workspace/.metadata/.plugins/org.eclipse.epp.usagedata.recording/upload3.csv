@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.net,1.2.1.r35x_20090812-1200,"org.eclipse.ui.net",1379440032909
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1379440032909
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1379440032909
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1379440032909
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1379440032909
+started,bundle,org.eclipse.update.core,3.2.300.v20090525,"org.eclipse.update.core",1379440032909
+started,bundle,org.eclipse.update.scheduler,3.2.200.v20081127,"org.eclipse.update.scheduler",1379440032909
+started,bundle,com.altera.sbtgui.integration,10.1.0.153,"com.altera.sbtgui.integration",1379440032909
+started,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1379440032909
+started,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1379440032909
+started,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1379440032909
+started,bundle,com.altera.systemconsole,10.1.0.153,"com.altera.systemconsole",1379440032909
+started,bundle,com.altera.utilities,10.1.0.153,"com.altera.utilities",1379440032909
+os,sysinfo,,,"win32",1379440032909
+arch,sysinfo,,,"x86",1379440032909
+ws,sysinfo,,,"win32",1379440032909
+locale,sysinfo,,,"en_CA",1379440032909
+processors,sysinfo,,,"4",1379440032909
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1379440032909
+java.runtime.version,sysinfo,,,"1.6.0_14-b08",1379440032909
+java.specification.name,sysinfo,,,"Java Platform API Specification",1379440032909
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1379440032909
+java.specification.version,sysinfo,,,"1.6",1379440032909
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1379440032909
+java.version,sysinfo,,,"1.6.0_14",1379440032909

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1380577572030
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380577572290
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380577573950
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380577615150
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380577669220
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1380578006790
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1380578006850
+started,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1380578006850
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380578030210
+error,log,,,"SOPC design not set.",1380578098560
+error,log,,,"CPU module not set.",1380578098560
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380578098570
+error,log,,,"CPU architecture type not set. ",1380578098580
+error,log,,,"CPU master group not set.",1380578098580
+error,log,,,"SOPC design not set.",1380578098590
+error,log,,,"CPU module not set.",1380578098600
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380578098600
+error,log,,,"CPU architecture type not set. ",1380578098610
+error,log,,,"CPU master group not set.",1380578098610
+error,log,,,"SOPC design not set.",1380578098710
+error,log,,,"CPU module not set.",1380578098710
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380578098720
+error,log,,,"CPU architecture type not set. ",1380578098730
+error,log,,,"CPU master group not set.",1380578098730
+error,log,,,"Connected system ID hash not found on target at expected base address.",1380578098740

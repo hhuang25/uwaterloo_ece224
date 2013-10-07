@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1380291561770
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1380291574535
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1380291576735
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291580245
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291660715
+started,bundle,org.eclipse.cdt.managedbuilder.core,6.0.0.200909110608,"org.eclipse.cdt.managedbuilder.core",1380291673165
+started,bundle,org.eclipse.cdt.make.core,6.0.0.200909110608,"org.eclipse.cdt.make.core",1380291673485
+started,bundle,org.eclipse.core.variables,3.2.200.v20090521,"org.eclipse.core.variables",1380291673505
+started,bundle,org.eclipse.cdt.managedbuilder.gnu.ui,5.0.100.200909110608,"org.eclipse.cdt.managedbuilder.gnu.ui",1380291675775
+started,bundle,org.eclipse.search,3.5.1.r351_v20090708-0800,"org.eclipse.search",1380291692355
+started,bundle,org.eclipse.compare,3.5.0.I20090514-0808,"org.eclipse.compare",1380291692495
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1380291694465
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291694745
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291774792
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291774802
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291778752
+started,bundle,org.eclipse.debug.ui,3.5.1.v20090811_r351,"org.eclipse.debug.ui",1380291834587
+started,bundle,org.eclipse.cdt.debug.core,6.0.0.200909110608,"org.eclipse.cdt.debug.core",1380291834642
+started,bundle,org.eclipse.cdt.debug.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.ui",1380291834646
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291845644
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1380291864242
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291925160
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291930177
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380291989669
+error,log,,,"SOPC design not set.",1380291991413

@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380650723248
+opened,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1380650727788
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1380650727848
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1380650738778
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1380650744108
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380650748068
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.copy",1380650750448
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380650753148
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.cut",1380650755348
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.paste",1380650758068
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.file.save",1380650810278
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1380650811798
+executed,command,org.eclipse.ui.ide,3.5.1.M20090826-0800,"org.eclipse.ui.project.buildProject",1380650814198
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380650814478
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380650895368
+activated,editor,org.eclipse.cdt.ui,5.1.1.200909110608,"org.eclipse.cdt.ui.editor.CEditor",1380650900578
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1380650905468
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380650908238
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380650969438
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1380650970858
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380651030078
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380651031218
+error,log,,,"SOPC design not set.",1380651031308
+error,log,,,"CPU module not set.",1380651031338
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1380651031348

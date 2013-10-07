@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613043477
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043477
+error,log,,,"CPU architecture type not set. ",1379613043477
+error,log,,,"CPU master group not set.",1379613043493
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043508
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043524
+error,log,,,"SOPC design not set.",1379613043555
+error,log,,,"CPU module not set.",1379613043555
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613043555
+error,log,,,"CPU architecture type not set. ",1379613043571
+error,log,,,"CPU master group not set.",1379613043571
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043586
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043586
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043617
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043649
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043680
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043727
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043742
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043789
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043820
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043851
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043883
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043914
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043945
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613043992

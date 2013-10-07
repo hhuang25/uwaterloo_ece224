@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"Connected system timestamp not found on target at expected base address.",1379440547207
+error,log,,,"SOPC design not set.",1379440547215
+error,log,,,"CPU module not set.",1379440547221
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440547227
+error,log,,,"CPU architecture type not set. ",1379440547232
+error,log,,,"CPU master group not set.",1379440547241
+error,log,,,"SOPC design not set.",1379440547247
+error,log,,,"CPU module not set.",1379440547253
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440547260
+error,log,,,"CPU architecture type not set. ",1379440547273
+error,log,,,"SOPC design not set.",1379440547280
+error,log,,,"CPU master group not set.",1379440547285
+error,log,,,"CPU module not set.",1379440547291
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440547302
+error,log,,,"CPU architecture type not set. ",1379440547307
+error,log,,,"CPU master group not set.",1379440547314
+error,log,,,"SOPC design not set.",1379440547325
+error,log,,,"CPU module not set.",1379440547331
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379440547336
+error,log,,,"CPU architecture type not set. ",1379440547342
+error,log,,,"CPU master group not set.",1379440547348
+started,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1379440547364
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379440547491
+error,log,,,"Target is broken and needs to be reset",1379440548284
+error,log,,,"SOPC design not set.",1379440548338

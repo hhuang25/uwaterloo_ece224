@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1380292355180
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1380292355180
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1380292355180
+java.vm.specification.version,sysinfo,,,"1.0",1380292355180
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1380292355180
+java.vm.version,sysinfo,,,"14.0-b16",1380292355180
+activated,view,org.eclipse.ui.navigator.resources,3.4.1.M20090826-0800,"org.eclipse.ui.navigator.ProjectExplorer",1380292355834
+started,bundle,org.eclipse.epp.usagedata.ui,1.1.0.R200906100410,"org.eclipse.epp.usagedata.ui",1380292356249
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380292356540
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380292358360
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380292359590
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380292360530
+closed,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1380292360680
+started,bundle,com.altera.sbtgui.core,10.1.0.153,"com.altera.sbtgui.core",1380292361210
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1380292361220
+error,log,,,"The proxied handler for 'com.altera.sbtgui.project.commands.SystemConsoleHandler' could not be loaded",1380292361230
+stopped,bundle,org.eclipse.cdt.debug.mi.ui,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.ui",1380292361280
+stopped,bundle,com.altera.debug.cdi.gdb.plugin,10.1.0.153,"com.altera.debug.cdi.gdb.plugin",1380292361280
+stopped,bundle,com.altera.sbtgui.launch,10.1.1.153,"com.altera.sbtgui.launch",1380292361290
+stopped,bundle,org.eclipse.cdt.debug.mi.core,6.0.0.200909110608,"org.eclipse.cdt.debug.mi.core",1380292361290
+stopped,bundle,org.eclipse.cdt.dsf.gdb.ui,2.0.0.200909110608,"org.eclipse.cdt.dsf.gdb.ui",1380292361290
+stopped,bundle,org.eclipse.cdt.dsf.ui,2.0.1.200909110608,"org.eclipse.cdt.dsf.ui",1380292361290
+stopped,bundle,com.altera.sbtgui.ui,10.1.0.153,"com.altera.sbtgui.ui",1380292361290
+stopped,bundle,com.altera.sbtgui.project,10.1.0.153,"com.altera.sbtgui.project",1380292361290
+stopped,bundle,org.eclipse.cdt.launch,6.0.0.200909110608,"org.eclipse.cdt.launch",1380292361290

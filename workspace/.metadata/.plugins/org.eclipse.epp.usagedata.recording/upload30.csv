@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"SOPC design not set.",1379613365681
+error,log,,,"SOPC design not set.",1379613365697
+error,log,,,"CPU module not set.",1379613365697
+error,log,,,"CPU module not set.",1379613365697
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613365713
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613365713
+error,log,,,"CPU architecture type not set. ",1379613365728
+error,log,,,"CPU architecture type not set. ",1379613365728
+error,log,,,"CPU master group not set.",1379613365728
+error,log,,,"CPU master group not set.",1379613365744
+error,log,,,"SOPC design not set.",1379613365759
+error,log,,,"CPU module not set.",1379613365759
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613365775
+error,log,,,"CPU architecture type not set. ",1379613365775
+error,log,,,"CPU master group not set.",1379613365791
+error,log,,,"SOPC design not set.",1379613365822
+error,log,,,"CPU module not set.",1379613365822
+error,log,,,"The SOPC design does not contain a CPU of a supported architecture.",1379613365837
+error,log,,,"CPU architecture type not set. ",1379613365837
+error,log,,,"CPU master group not set.",1379613365837
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613365853
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613365869
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613365900
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379613365915
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366539

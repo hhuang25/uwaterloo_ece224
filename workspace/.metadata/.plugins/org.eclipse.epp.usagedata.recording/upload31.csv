@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366571
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366586
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366617
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366649
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366680
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366695
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366727
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366742
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366773
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366789
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366820
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366851
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366867
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366898
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613366929
+error,log,,,"System timestamp mismatch - connected: ""0"", expected: ""1378862049"".",1379613374636
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379613377725
+executed,command,,,"com.altera.sbtgui.launch.hardware.Nios2HardwareLaunchShortcut.run",1379613377740
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379613378739
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379613391946
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379613403256
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379613404723
+executed,command,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring.commands.deleteResources",1379613404723
+executed,command,org.eclipse.ui,3.5.1.M20090902-1000,"org.eclipse.ui.edit.delete",1379613404723
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1379613406844
