@@ -107,81 +107,207 @@ int main(void)
 		//IOWR(PIO_RESPONSE_BASE, 0, 0);
 	}
 	finalize();
-}
+}*/
+
 /*
-void init(int, int);
-void background(int);
-void finalize(void);
-#include "system.h"
-#include <io.h>
-// our test
-int main(void)
-{
-	int i;
-	init(3, 10);
-	for(i=0; i<100; i++)
-	{
-		while(IORD(PIO_PULSE_BASE, 0) == 0) {}
-		IOWR(PIO_RESPONSE_BASE, 0, 1);
-		background(200);
-		while(IORD(PIO_PULSE_BASE, 0) == 1) {}
-		IOWR(PIO_RESPONSE_BASE, 0, 0);
-	}
-	finalize();
-}
-*/
-
-
-
+ * init(6,8);
+ * Results:
+  missed = 0 pulse(s)
+  max latency = 625 / 1024th(s) of a period
+  max latency = 525 microsecond(s)
+  task units processed = 505 units
+ */
 int flag;
-
 
 #ifdef PIO_PULSE_BASE
 static void pulse_ISR(void* context, alt_u32 id)
 {
-   flag++;
    if (IORD(PIO_PULSE_BASE, 0) == 0)
    {
            IOWR(PIO_RESPONSE_BASE, 0, 1);
            flag++;
    }
-   IOWR(PIO_RESPONSE_BASE, 0, 1);
-   flag++;
+   //IOWR(PIO_RESPONSE_BASE, 0, 1);
    if (IORD(PIO_PULSE_BASE, 0) == 1)
    {
            IOWR(PIO_RESPONSE_BASE, 0, 0);
            flag++;
    }
    // clear interrupt
-  IOWR(PIO_PULSE_BASE, 0, 0);
+   //IOWR(PIO_PULSE_BASE, 0, 0);
+   IOWR(PIO_PULSE_BASE, 3, 0x0);
+}
+#endif
+
+#ifdef TIMER_1_BASE  // only compile this code if there is a TIMER_1_BASE
+static void timer_ISR(void* context, alt_u32 id)
+{
+	// acknowledge the interrupt by clearing the TO bit in the status register
+   IOWR(TIMER_1_BASE, 0, 0x0);
+   if(IORD(PIO_PULSE_BASE, 0) == 0){
+		IOWR(PIO_RESPONSE_BASE, 0, 1);
+		flag++;
+   }
+   if(IORD(PIO_PULSE_BASE, 0) == 1){
+	   IOWR(PIO_RESPONSE_BASE, 0, 0);
+	   flag++;
+   }
+   IOWR(TIMER_1_BASE, 1, 0x8);
+}
+#endif
+
+void periodic_polling(int period, int dutyCycle, int granularity)
+{
+	flag = 0;
+	printf("Results for periodic polling with init(%d , %d) and granularity of %d \n", period, dutyCycle, granularity);
+
+#ifdef TIMER_1_BASE
+	alt_u32 timerPeriod;
+	// calculate timer period for 1 seconds
+	timerPeriod = TIMER_1_FREQ >> 16;
+
+	// initialize timer interrupt vector
+	alt_irq_register(TIMER_1_IRQ, (void*)0, timer_ISR);
+
+	// initialize timer period
+	IOWR(TIMER_1_BASE, 2, (alt_u16)timerPeriod);
+	IOWR(TIMER_1_BASE, 3, (alt_u16)(timerPeriod >> 16));
+
+	// clear timer interrupt bit in status register
+	IOWR(TIMER_1_BASE, 0, 0x0);
+
+	// initialize timer control -  stop timer, start timer, run continuously, enable interrupts
+	IOWR(TIMER_1_BASE, 1, 0x4);
+#endif
+
+	init(period, dutyCycle);
+	while(flag < 100)
+	{
+		background(granularity);
+		// initialize timer control -  stop timer, start timer, run continuously, enable interrupts
+		IOWR(TIMER_1_BASE, 1, 0x7);
+	}
+	finalize();
+}
+
+void interrupt(int period, int dutyCycle, int granularity)
+{
+	printf("Results for periodic polling with init(%d , %d)and granularity of %d \n", period, dutyCycle, granularity);
+	init(period, dutyCycle);
+	flag = 0;
+
+#ifdef PIO_PULSE_BASE
+	//initialize the pulse PIO
+
+	//enable interrupts
+	IOWR(PIO_PULSE_BASE, 2, 1);
+	IOWR(PIO_PULSE_BASE, 3, 0);
+	//set up the interrupt vector
+	alt_irq_register( PIO_PULSE_IRQ, (void*)0, pulse_ISR );
+
+
+#endif
+	//printf("flag2:%d\n", flag);
+
+	while(flag < 100)
+	{
+		background(granularity);
+	}
+	finalize();
+}
+
+int main(void)
+{
+	int i;
+	for(i = 1; i < 3; i++){
+		periodic_polling(6,8,i*5);
+		periodic_polling(8,6,i*5);
+		periodic_polling(3,10,i*5);
+		periodic_polling(10,3,i*5);
+		periodic_polling(2,2,i*5);
+		periodic_polling(13,13,i*5);
+	}
+	for(i = 1; i < 3; i++){
+		interrupt(6,8,i*50);
+		interrupt(8,6,i*50);
+		interrupt(3,10,i*50);
+		interrupt(10,3,i*50);
+		interrupt(2,2,i*50);
+		interrupt(13,13,i*50);
+	}
+}
+
+
+/*
+int flag;
+
+
+#ifdef PIO_PULSE_BASE
+static void pulse_ISR(void* context, alt_u32 id)
+{
+   if (IORD(PIO_PULSE_BASE, 0) == 0)
+   {
+           IOWR(PIO_RESPONSE_BASE, 0, 1);
+           flag++;
+   }
+   //IOWR(PIO_RESPONSE_BASE, 0, 1);
+   if (IORD(PIO_PULSE_BASE, 0) == 1)
+   {
+           IOWR(PIO_RESPONSE_BASE, 0, 0);
+           flag++;
+   }
+   // clear interrupt
+   //IOWR(PIO_PULSE_BASE, 0, 0);
+   IOWR(PIO_PULSE_BASE, 3, 0x0);
 }
 #endif
 
 int main(void)
 {
-	init(6, 8);
+	init(13, 13);
 	flag = 0;
-	printf("flag1:%d\n", flag);
+	//printf("flag1:%d\n", flag);
 
 #ifdef PIO_PULSE_BASE
-	/* initialize the pulse PIO */
+	 initialize the pulse PIO
 
-	// clear interrupt
-	IOWR(PIO_PULSE_BASE, 0, 0);
-	/* enable interrupts */
+	 enable interrupts
 	IOWR(PIO_PULSE_BASE, 2, 1);
 	IOWR(PIO_PULSE_BASE, 3, 0);
-	/* set up the interrupt vector */
+	 set up the interrupt vector
 	alt_irq_register( PIO_PULSE_IRQ, (void*)0, pulse_ISR );
 
 
 #endif
-  printf("flag2:%d\n", flag);
+  //printf("flag2:%d\n", flag);
 
 while(flag < 100)
 {
+	background(50);
 	printf("%d\n", flag);
 }
   finalize();
+}*/
 
-}
+/*
+ * init(6,8);
+ * Results:
+  missed = 0 pulse(s)
+  max latency = 598 / 1024th(s) of a period
+  max latency = 502 microsecond(s)
+  task units processed = 2450 units
+ *
+ *init(2,2);
+ *Results:
+  missed = 1 pulse(s)
+  max latency = 1211 / 1024th(s) of a period
+  max latency = 435 microsecond(s)
+  task units processed = 950 units
+
+  init(13,13);
+  Results:
+  missed = 0 pulse(s)
+  max latency = 877 / 1024th(s) of a period
+  max latency = 1473 microsecond(s)
+  task units processed = 5200 units
+ */

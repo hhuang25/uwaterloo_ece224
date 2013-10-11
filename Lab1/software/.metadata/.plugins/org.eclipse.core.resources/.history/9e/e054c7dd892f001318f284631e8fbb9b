@@ -1,0 +1,186 @@
+/*
+ * lab1_phase2.c
+ *
+ *  Created on: 2013-10-03
+ *      Author: h53huang
+ */
+/*
+ * original code: init(6,8)
+ * void init(int, int);
+  missed = 99 pulse(s)
+  max latency = 1095 / 1024th(s) of a period
+  max latency = 919 microsecond(s)
+  task units processed = 20000 units
+
+ * ; init(3,10);
+ *     missed = 297 pulse(s)
+  max latency = 3176 / 1024th(s) of a period
+  max latency = 1524 microsecond(s)
+  task units processed = 20000 units
+
+ * init(10,3);
+ * missed = 99 pulse(s)
+  max latency = 1073 / 1024th(s) of a period
+  max latency = 1416 microsecond(s)
+  task units processed = 20000 units
+
+  (init(8,6);
+   missed = 99 pulse(s)
+  max latency = 1067 / 1024th(s) of a period
+  max latency = 1152 microsecond(s)
+  task units processed = 20000 units
+
+   init(2,2);
+      missed = 401 pulse(s)
+  max latency = 5121 / 1024th(s) of a period
+  max latency = 1843 microsecond(s)
+  task units processed = 20000 units
+
+  init(13,13)
+   missed = 0 pulse(s)
+  max latency = 29 / 1024th(s) of a period
+  max latency = 48 microsecond(s)
+  task units processed = 20000 units
+ * results
+ */
+
+void init(int, int);
+void background(int);
+void finalize(void);
+#include "system.h"
+#include <io.h>
+// our test results
+/*
+ * init(6,8);
+ *   missed = 87 pulse(s)
+  max latency = 65535 / 1024th(s) of a period
+  max latency = 55049 microsecond(s)
+  task units processed = 10100 units
+   init(8,6); init(3,10); init(10,3); init(2,2); init(12,12);
+ */
+/*
+int main(void)
+{
+	int i;
+	int flag;
+	flag = 0;
+	//period and duty cycles should not exceed 14
+	//originally init(6, 8)
+	init(6,8);
+	for(i=0; i<100; i++)
+	{
+		int j;
+		while(flag == 0) {
+			for(j = 100; j > 0; j--)
+			{
+				background(j);
+				if(IORD(PIO_PULSE_BASE, 0) == 0){
+					flag = 1;
+					IOWR(PIO_RESPONSE_BASE, 0, 1);
+					break;
+				}
+			}
+		}
+		//IOWR(PIO_RESPONSE_BASE, 0, 1);
+		//background(200);
+		flag = 0;
+		while(flag == 0) {
+			for(j = 100; j > 0; j--)
+			{
+				background(j);
+				if(IORD(PIO_PULSE_BASE, 1) == 0){
+					flag = 1;
+					IOWR(PIO_RESPONSE_BASE, 0, 0);
+					break;
+				}
+			}
+		}
+		//while(IORD(PIO_PULSE_BASE, 0) == 1) {}
+		//IOWR(PIO_RESPONSE_BASE, 0, 0);
+	}
+	finalize();
+}
+/*
+void init(int, int);
+void background(int);
+void finalize(void);
+#include "system.h"
+#include <io.h>
+// our test
+int main(void)
+{
+	int i;
+	init(3, 10);
+	for(i=0; i<100; i++)
+	{
+		while(IORD(PIO_PULSE_BASE, 0) == 0) {}
+		IOWR(PIO_RESPONSE_BASE, 0, 1);
+		background(200);
+		while(IORD(PIO_PULSE_BASE, 0) == 1) {}
+		IOWR(PIO_RESPONSE_BASE, 0, 0);
+	}
+	finalize();
+}
+*/
+
+// Libraries required
+#include "alt_types.h"  // define types used by Altera code, e.g. alt_u8
+#include <stdio.h>
+#include <unistd.h>
+//#include "system.h"  // constants such as the base addresses of any PIOs
+                     // defined in your hardware
+#include "sys/alt_irq.h"  // required when using interrupts
+//#include <io.h>
+
+int flag;
+
+
+#ifdef PIO_PULSE_BASE
+static void pulse_ISR(void* context, alt_u32 id)
+{
+   // clear interrupt
+   IOWR(PIO_PULSE_BASE, 0, 0);
+   flag++;
+   if (IORD(PIO_PULSE_BASE, 0) == 0)
+   {
+           IOWR(PIO_RESPONSE_BASE, 0, 1);
+           flag++;
+   }
+   IOWR(PIO_RESPONSE_BASE, 0, 1);
+   flag++;
+   if (IORD(PIO_PULSE_BASE, 0) == 1)
+   {
+           IOWR(PIO_RESPONSE_BASE, 0, 0);
+           flag++;
+   }
+}
+#endif
+
+int main(void)
+{
+	init(6, 8);
+	flag = 0;
+	printf("flag1:%d\n", flag);
+
+#ifdef PIO_PULSE_BASE
+  /* initialize the pulse PIO */
+
+  /* direction is input only */
+
+  /* set up the interrupt vector */
+  alt_irq_register( PIO_PULSE_IRQ, (void*)0, pulse_ISR );
+
+  /* enable interrupts for all four buttons*/
+  IOWR(PIO_PULSE_BASE, 3, 0x0);
+  IOWR(PIO_PULSE_BASE, 2, 0x1);
+
+#endif
+  printf("flag2:%d\n", flag);
+
+while(flag < 100)
+{
+	printf("%d\n", flag);
+}
+  finalize();
+
+}

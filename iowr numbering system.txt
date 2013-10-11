@@ -1,0 +1,6 @@
+0 is data
+1 is direction (1 is output)
+2 is interrupt mask
+3 is edge capture
+
+found in egm.c file
